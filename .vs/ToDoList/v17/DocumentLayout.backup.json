@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\dotnetEstudos\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|e:\\dotnetestudos\\todolist\\todolist\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|e:\\dotnetestudos\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|e:\\dotnetestudos\\todolist\\todolist\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4B4A53-D923-4BE3-BF6F-B4D42FCB5383}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "ToDoList\\Controllers\\TarefasController.cs",
-              "ToolTip": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Controllers\\TarefasController.cs*",
-              "RelativeToolTip": "ToDoList\\Controllers\\TarefasController.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwBUAAAA2AAAAAAAAAA==",
+              "ToolTip": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\TarefasController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswEEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T17:21:30.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Program.cs",
               "RelativeDocumentMoniker": "ToDoList\\Program.cs",
-              "ToolTip": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Program.cs",
-              "RelativeToolTip": "ToDoList\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAAAVAAAAAAAAAA==",
+              "ToolTip": "E:\\dotnetEstudos\\ToDoList\\ToDoList\\Program.cs*",
+              "RelativeToolTip": "ToDoList\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T16:07:31.116Z",
               "EditorCaption": ""

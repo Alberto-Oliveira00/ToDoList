@@ -169,3 +169,4 @@ E:\dotnetEstudos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
 E:\dotnetEstudos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
 E:\dotnetEstudos\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
 E:\dotnetEstudos\ToDoList\ToDoList\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\dotnetEstudos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json

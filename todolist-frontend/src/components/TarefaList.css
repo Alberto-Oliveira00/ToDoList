@@ -1,0 +1,122 @@
+.tarefa-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tarefa-list li {
+  display: flex;
+  flex-direction: column; /* Para empilhar o conteúdo e as ações */
+  padding: 18px 20px;
+  margin-bottom: 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tarefa-list li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+}
+
+.tarefa-list li.concluida {
+  background-color: #e9ecef; /* Um cinza claro para tarefas concluídas */
+  text-decoration: line-through;
+  color: #6c757d;
+  border-color: #d1d7db;
+}
+
+.tarefa-list li h3 {
+  margin: 0 0 8px 0;
+  color: #34495e;
+  font-size: 1.4em;
+}
+
+.tarefa-list li.concluida h3 {
+    color: #8899a6;
+}
+
+.tarefa-list li p {
+  margin: 0 0 10px 0;
+  color: #555;
+  line-height: 1.5;
+}
+
+.tarefa-list li.concluida p {
+    color: #99aab5;
+}
+
+.tarefa-list li small {
+  color: #777;
+  font-size: 0.85em;
+  margin-top: 5px;
+}
+
+.tarefa-list li.concluida small {
+    color: #aab8c2;
+}
+
+
+.tarefa-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px; /* Espaço entre o texto e os botões */
+  justify-content: flex-end; /* Alinha os botões à direita */
+}
+
+.tarefa-actions button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.tarefa-actions button:hover {
+  transform: translateY(-1px);
+}
+
+.tarefa-actions .btn-concluir {
+  background-color: #17a2b8; /* Azul claro para concluir */
+  color: white;
+}
+
+.tarefa-actions .btn-concluir:hover {
+  background-color: #138496;
+}
+
+.tarefa-actions .btn-desmarcar {
+  background-color: #ffc107; /* Amarelo para desmarcar */
+  color: #333;
+}
+
+.tarefa-actions .btn-desmarcar:hover {
+  background-color: #e0a800;
+}
+
+.tarefa-actions .btn-editar {
+  background-color: #007bff; /* Azul para editar */
+  color: white;
+}
+
+.tarefa-actions .btn-editar:hover {
+  background-color: #0056b3;
+}
+
+.tarefa-actions .btn-deletar {
+  background-color: #dc3545; /* Vermelho para deletar */
+  color: white;
+}
+
+.tarefa-actions .btn-deletar:hover {
+  background-color: #c82333;
+}
+
+.no-tasks {
+  text-align: center;
+  color: #777;
+  font-size: 1.1em;
+  margin-top: 30px;
+}

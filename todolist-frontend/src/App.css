@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #007bff, #000000); /* Gradiente de azul para preto */
+  min-height: 100vh; /* Garante que o gradiente cubra toda a altura */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinha o conteúdo ao topo, não ao centro vertical */
+  padding: 20px;
+  box-sizing: border-box; /* Inclui padding na largura/altura total */
+}
+
+.App {
+  background-color: rgba(255, 255, 255, 0.95); /* Fundo branco semi-transparente */
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  max-width: 600px;
+  width: 100%;
+  margin-top: 50px; /* Espaço do topo */
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50; /* Cor de título mais escura */
+  margin-bottom: 30px;
+  font-size: 2.2em;
+  letter-spacing: 1px;
+}

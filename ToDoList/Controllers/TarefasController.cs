@@ -56,7 +56,7 @@ namespace ToDoList.Controllers
         {
             if (id != tarefa.TarefaId)
             {
-                return BadRequest($"Categoria com o id: {id} não encontrada...");
+                return BadRequest($"Tarefa com o id: {id} não encontrada...");
             }
             _context.Entry(tarefa).State = EntityState.Modified;
             _context.SaveChanges();

@@ -1,0 +1,43 @@
+.tarefa-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #fcfcfc;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.tarefa-form input[type="text"],
+.tarefa-form textarea {
+  padding: 12px;
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  font-size: 1em;
+  width: calc(100% - 24px); /* Para ajustar o padding */
+  box-sizing: border-box;
+}
+
+.tarefa-form input[type="text"]:focus,
+.tarefa-form textarea:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.tarefa-form button {
+  padding: 12px 20px;
+  background-color: #28a745; /* Botão de adicionar verde */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1.1em;
+  transition: background-color 0.3s ease;
+}
+
+.tarefa-form button:hover {
+  background-color: #218838;
+}
