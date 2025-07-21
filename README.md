@@ -13,16 +13,16 @@ Este projeto é uma aplicação de lista de tarefas (ToDoList) simples, desenvol
 
 ### Backend (API)
 
-  * **ASP.NET Core Web API 8.0**: Framework para construção de APIs RESTful.
-  * **Entity Framework Core**: ORM para acesso a dados e interação com o banco de dados.
-  * **SQL Server**: Banco de dados relacional para persistência das tarefas.
-  * **Swagger/OpenAPI**: Para documentação e teste da API.
+  * **ASP.NET Core Web API 8.0**
+  * **Entity Framework Core**
+  * **SQL Server**
+  * **Swagger/OpenAPI**
 
 ### Frontend
 
-  * **React (CRA - Create React App)**: Biblioteca JavaScript para construção da interface do usuário.
-  * **HTML/CSS**: Para estruturação e estilização da aplicação.
-  * **JavaScript (ES6+)**: Linguagem de programação principal do frontend.
+  * **React**
+  * **HTML/CSS**
+  * **JavaScript (ES6+)**
 
 -----
 
