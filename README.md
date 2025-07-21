@@ -3,6 +3,10 @@
 
 Este projeto é uma aplicação de lista de tarefas (ToDoList) simples, desenvolvida para testar meus conhecimentos e demonstrar a integração entre um **backend em ASP.NET Core Web API** e um **frontend em React**. Ele permite aos usuários criar, visualizar, editar, marcar como concluídas e excluir tarefas.
 
+## Visão Geral do Projeto
+
+![Screenshot da Aplicação ToDoList](todolist-frontend/assets/screenshot.png)
+
 -----
 
 ## Tecnologias Utilizadas
